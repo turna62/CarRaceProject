@@ -1,0 +1,3 @@
+interface EngineBehavior {
+    void engineInfo();
+}
